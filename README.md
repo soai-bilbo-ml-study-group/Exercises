@@ -1,0 +1,2 @@
+# Exercises
+For homework solutions
